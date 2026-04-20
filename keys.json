@@ -3,7 +3,14 @@
     {
       "code": "D85044E9CC974339AEF3ECA3",
       "createdAtMillis": 1776631603928,
+      "active": true,
       "redeemedAtMillis": 1776631624010
+    },
+    {
+      "code": "1B910BEAFE3D475091FF441E",
+      "createdAtMillis": 1776664093641,
+      "active": true,
+      "redeemedAtMillis": null
     }
   ]
 }
